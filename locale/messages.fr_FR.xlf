@@ -1,0 +1,1826 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="fr.xlf" source-language="fr" target-language="fr-FR">
+    <body>
+      <trans-unit id="86261bb2f51eb110cbfaef51e3d16f53d05c1027">
+        <source>shc_7</source>
+        <target>Simplifia - Organisation d'obsèques, démarches, annuaire et mémorial en ligne</target>
+        <note>Title homepage globale</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="4711a6bb329ed86f08c3d6ac61b2b13b1dbc57db">
+        <source>shc_8</source>
+        <target>Simplifia propose un service d'organisation d'obsèques et d'aide aux démarches, un annuaire de pompes funèbres et des avis de décès en ligne</target>
+        <note>Métadescription homepage globale</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="2bfbe52714913f74dabe25d0b368ad6fc8657076">
+        <source>shc_9</source>
+        <target>ÉTABLIR LE DEVIS</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="109869f6589c835ba1ca8dcc3e262c7f45c2886d">
+        <source>shc_10</source>
+        <target>Des questions ?</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="5c4ba4a940fa702274247ab0845ae37de04373e8">
+        <source>shc_11</source>
+        <target>04 28 31 20 32</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="cb94ea39d0b794ec3fa0f6ef0c687bc6119b0557">
+        <source>shc_12</source>
+        <target>Un outil en ligne pour organiser vos obsèques</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="694d41143a7c42b3ddf8ba7a6ca97c7d4d1f6f86">
+        <source>shc_13</source>
+        <target>• Des prestations transparentes &lt;br/&gt;
+				• Un devis personnalisé &lt;br/&gt;
+				• Accessible à tout moment depuis chez vous &lt;br/&gt;</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="d1cff687c7e1286b2cb4952083c42111a32c6038">
+        <source>shc_14</source>
+        <target>Devis en ligne</target>
+        <note>Alt Outil en ligne</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="2a32cba52a8e04855f23da68532c9f1ef58415cf">
+        <source>shc_15</source>
+        <target>Des prestataires de qualité au meilleur prix</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="5be0f77a757a48007af8eedaade4af04dd0a081e">
+        <source>shc_16</source>
+        <target>• Des tarifs négociés à votre place &lt;br/&gt;
+				• 98% des familles satisfaites de la prestation &lt;br/&gt;
+				• Des milliers d'avis sur les opérateurs funéraires &lt;br/&gt;</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="3d55df7969ce985b233366006086a42dabc49bfb">
+        <source>shc_17</source>
+        <target>Meilleur rapport qualité/prix</target>
+        <note>Alt Qualité/prix</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="420dcb5df3ae20ec10d93525ff3c7e1ef1497bc1">
+        <source>shc_18</source>
+        <target>Un conseiller dédié pour vous accompagner</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="09af41f79e4e5f3ed5c39768d4ead162ad97d3b2">
+        <source>shc_19</source>
+        <target>• Un interlocuteur unique &lt;br/&gt;
+				• Des réponses à toutes vos questions &lt;br/&gt;
+				• À vos côtés 24/24 et 7j/7 &lt;br/&gt;</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="f616959ecd4ae233dbf0f94c02d6bc1ca0aaece4">
+        <source>shc_20</source>
+        <target>Conseiller unique</target>
+        <note>Alt Conseiller unique</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="e8c9acb102c72628b7c1876c96f4f535fa62a4a6">
+        <source>shc_21</source>
+        <target>POURQUOI ORGANISER DES OBSÈQUES AVEC SIMPLIFIA ?</target>
+        <note>H1</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="2549766f6b19d20f2c1af3ff4acb3ad6c0757eb5">
+        <source>shc_22</source>
+        <target>Un outil simple et pratique pour organiser des obsèques personnalisées</target>
+        <note>H2</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="33bb2d8a1d73366c3ea13720e5920fc7531388f3">
+        <source>shc_23</source>
+        <target>Gain de temps :</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="01f2326ea6e1b965df669888951d9e48c4fa6e77">
+        <source>shc_24</source>
+        <target>En quelques clics, établissez un devis sans prise de rendez-vous au préalable.</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="4a76a68dda86299f6c4d086b8c3d1b5b94fa6197">
+        <source>shc_25</source>
+        <target>Pas de pression :</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="b5c8dda1e73e6c1a8b942a82dc4c7e8563b675c1">
+        <source>shc_26</source>
+        <target>Restez dans l'intimité et le confort de chez vous durant toute la procédure. Vous êtes guidé étape par étape sur notre outil en ligne, comme si vous étiez en agence, sans être influencé par une démarche commerciale.</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="378ad86bf6d6318d1356934a63c6976cab8271f1">
+        <source>shc_27</source>
+        <target>Transparence totale :</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="8308c0697aceeab792c9cced02496aed1875e81d">
+        <source>shc_28</source>
+        <target>Organiser des obsèques depuis chez vous</target>
+        <note>Alt Simplicité d'utilisation</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="8a7c7313a153e9c83376f1ef7f9053df03332ad6">
+        <source>shc_29</source>
+        <target>Un meilleur rapport qualité/prix</target>
+        <note>H2</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="8a20d1e79738844ccf3a5aebe4862997f53438db">
+        <source>shc_30</source>
+        <target>Prix raisonnable :</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="67122d648aab9f69b348be6fccbc37a3065bf4ef">
+        <source>shc_31</source>
+        <target>La suppression d'intermédiaires nous permet de négocier au meilleur prix les prestations funéraires auprès des pompes funèbres.</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="bf1e16485007f3d64500ea9d5721f6a06e5bfa37">
+        <source>shc_32</source>
+        <target>Accompagnement dans le choix de l'opérateur funéraire :</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="5db7b248d9f29638cbb830cefca784e3a4ffbbb5">
+        <source>shc_33</source>
+        <target>Consultez nos milliers d'avis clients pour comparer et choisir la pompe funèbre qui sera en charge des obsèques.</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="781d92c27130af11d2b0c2d598663f90cf8e1192">
+        <source>shc_34</source>
+        <target>Qualité de service assurée :</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="02b0a5d5638aa847cd5d45ba7f9ace4ee138bb50">
+        <source>shc_35</source>
+        <target>Les pompes funèbres disposant d'avis clients négatifs sont considérées comme n'étant pas au niveau des standards de qualité que vous attendez et sont automatiquement retirées de la liste de nos partenaires.</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="5a3025db6e2855a8934f15f77e92f39ce05dd92e">
+        <source>shc_36</source>
+        <target>Un service de qualité au meilleur prix</target>
+        <note>Alt Rapport qualité / prix</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="72bdbc45732e39659c06d6ce29c231b6be18531c">
+        <source>shc_37</source>
+        <target>Une prise en charge totale par un conseiller dédié et unique</target>
+        <note>H2</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="5af3f04becd86d7877a434982b3b09ce759ead5d">
+        <source>shc_38</source>
+        <target>Pédagogie :</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="e1daff354db148ff66502f69dc82aed7a788e62c">
+        <source>shc_39</source>
+        <target>Organiser des obsèques est une tâche difficile, votre conseiller est là pour vous accompagner et répondre à vos questions.</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="107c543080e32b1d3e685130daf54afbd5d4a97e">
+        <source>shc_40</source>
+        <target>Disponibilité :</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="a35626eb8e8f5b667616f110282f0511b1279920">
+        <source>shc_41</source>
+        <target>Par sms, tchat, téléphone ou email, votre conseiller reste disponible durant toute la période des funérailles. Il est votre interlocuteur unique. En cas d'urgence, une permanence est assurée 24h/24 et 7j/7.</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="2ac3fad4b773b699c8f88b1f619bd3f1f0995e40">
+        <source>shc_42</source>
+        <target>Expertise :</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="7d897ba7bf1faea1d938dad50f13dd87ea803bba">
+        <source>shc_43</source>
+        <target>Votre conseiller finalise le devis avec vous pour vérifier qu'il n'y a aucune incohérence ou oubli dans l'oganisation des obsèques.</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="5e03da72b6f935eea2e12292d1283fa55fd40a91">
+        <source>shc_44</source>
+        <target>Accompagnement personnalisé dans l'organisation des obsèques</target>
+        <note>Alt Conseiller dédié</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="f9c740754abc85f7e6981294861ecf173c2b32a9">
+        <source>shc_45</source>
+        <target>Contactez-nous au</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="d7e1c5bbadce83d65bde8dd14c2bf30e9fcb80a7">
+        <source>shc_45a</source>
+        <target>04 28 31 20 32</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="1457a6938cf38598cc731cec20b82871efe1be39">
+        <source>shc_45b</source>
+        <target>ou accédez à notre service en ligne</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="7f8372a15729c07186a019f719ab94bfe5eb0795">
+        <source>shc_46</source>
+        <target>CONTACTEZ-NOUS</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="46c5de15dc5169dbba2f387399bc76b15b0c8541">
+        <source>shc_47</source>
+        <target>Contactez-nous pour toute question sur l'organisation des obsèques</target>
+        <note>Alt contact</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="3cad13b814eb26af6c8b58a28201aa718011db72">
+        <source>shc_48</source>
+        <target>98% des familles accompagnées recommandent nos services</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="f17f8bd6e2532c07983fbcd96dd0f525ff55ed03">
+        <source>shc_49</source>
+        <target>Toutes les démarches entreprises ont été effectuées avec respect et efficacité.</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="b51f24bf274affa09c044acd063e59491c2991b4">
+        <source>shc_50</source>
+        <target>Christophe L.</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="81a105016dd7a4166dd66ccec130322d53d6ab50">
+        <source>shc_51</source>
+        <target>J'ai été séduit par la simplicité d'utilisation.</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="7938a22f1edca11fb3f6af15b22f9f08d6a29b5a">
+        <source>shc_52</source>
+        <target>Thomas N.</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="e5b6cee62d26941a665b06c326ebc31a61c8f16d">
+        <source>shc_53</source>
+        <target>L'équipe de Simplifia a su gagner ma confiance en ce moment douloureux.</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="786d741237ae5014a8a9493f5dc6bab02f0683f7">
+        <source>shc_54</source>
+        <target>Maud C.</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="4846485586a872552366bd94573abc7f98ef1619">
+        <source>shc_55</source>
+        <target>Organisez vos obsèques en ligne - Devis Gratuit - Simplifia</target>
+        <note>Title homepage Tunob</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="bd23f8bf9231db6ae2896406e18c7b2f841a279d">
+        <source>shc_56</source>
+        <target>Organisez vos obsèques en ligne : prestataires de qualité au meilleur prix et conseiller dédié pour vous accompagner. Devis gratuit sans engagement</target>
+        <note>Métadescription homepage Tunob</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="c627d3c1551d72de03c5d0841e5feeddd7de1f3e">
+        <source>shc_57</source>
+        <target>Retrouvez toutes les prestations détaillées et leurs prix dans un devis qui s'actualise en temps réel en fonction des informations que vous renseignez. Nous vous précisons systématiquement lorsqu'un service est facultatif pour plus de clarté dans la démarche.</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="d73d13a4a9e00ae9a4687b10bde7c21e9483b823">
+        <source>shc_58</source>
+        <target>NOS AUTRES SERVICES</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="96d7eb5148049c4943a57d1842d78a79656fe48d">
+        <source>shc_59</source>
+        <target>Simplifia vous accompagne dans votre deuil</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="62ac61ad67d92ebab39b8b6d0a2b380130cbdf96">
+        <source>shc_60</source>
+        <target>Devis obsèques en ligne</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="37e38af63c83732a0d304db87e7313fc1716d174">
+        <source>shc_61</source>
+        <target>Depuis chez vous, 24h/24 et 7j/7</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="435f59d6c9350682083e7ac13db518177fd6a3dc">
+        <source>shc_62</source>
+        <target>Transparence sur les prix</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="f0a34033d06c2d40633fbe19b3f9b1f8e73968e1">
+        <source>shc_63</source>
+        <target>Prix transparents</target>
+        <note>Alt prix</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="b28a2ae799063747a4f34d0c872fb427461c5b60">
+        <source>shc_64</source>
+        <target>Qualité de service assurée</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="1a7af5bed81854043294a14dbb307d5eba8da2d7">
+        <source>shc_65</source>
+        <target>Qualité</target>
+        <note>Alt qualité</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="5289dad102b44c952c6ef698122d2a50e86f5982">
+        <source>shc_66</source>
+        <target>Accompagnement personnalisé</target>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="c99a6b1f285a38f44d01ee4e8e7966ce70cc03c0">
+        <source>shc_67</source>
+        <target>Suivi</target>
+        <note>Alt accompagnement</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="963ec0a93e7a702f4976e9a0dbb8e23657c36c24">
+        <source>shc_68</source>
+        <target>Devis gratuit obsèques en ligne</target>
+        <note>Alt encart widget</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="316259064ae0970f677442c968e47103e3d2536e">
+        <source>shc_69</source>
+        <target>Simplifia était sur BFM Business</target>
+        <note>BFM Business</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="d4780c9e4b0b9f735509e5f19c5433b8cdac8839">
+        <source>shc_70</source>
+        <target>Simplifia était sur TF1</target>
+        <note>TF1</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="ffef6fab68e8ba1f111dc01ad820dca6b3562e0a">
+        <source>shc_71</source>
+        <target>Simplifia était sur M6</target>
+        <note>M6</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="6eeaba3e88a669c1687a15f1df3a6627de174d67">
+        <source>shc_72</source>
+        <target>Simplifia était sur Le Parisien</target>
+        <note>Le Parisien</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="1254b7be09f41401a06d91e7232e0cfe541c2dae">
+        <source>shc_73</source>
+        <target>Simplifia était sur France Bleu</target>
+        <note>Franc Bleu</note>
+        <note from="meaning" priority="1">shc</note>
+      </trans-unit>
+      <trans-unit id="af465c99a54267c295397cb59d8ad4c44617495c">
+        <source>simplifia</source>
+        <target>Simplifia</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="8508d8e8436b9a25821fb04d9e4be922b00735ec">
+        <source>gathering</source>
+        <target>Recueillement</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="2e5387d7b6d0312009e238c3825c3f507fa3fa23">
+        <source>ceremony</source>
+        <target>Cérémonie</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="126a1c6c208a7fa2f331de7516e48491f04a2294">
+        <source>burial</source>
+        <target>Inhumation</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="008e0a3ae9495bacd2257eeda932e7c8247671b2">
+        <source>cremation</source>
+        <target>Crémation</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="cd2835a35ed791d7dfff6e1970cbab62005af2ce">
+        <source>delivery</source>
+        <target>Livraison</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="0eba18081b32efced65ca52bceea694d4b9f42f4">
+        <source>payment</source>
+        <target>Paiement</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="9a75e8c3d64041ca440708e1d1ec8ab9cacfd592">
+        <source>years_old</source>
+        <target>%Years% ans</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="9698a0109dafef86c82e7130b34810f6aaee43b1">
+        <source>birth_date</source>
+        <target>Date de naissance</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="d73078fb26b95c466e976a47f632885d8309e458">
+        <source>death_date</source>
+        <target>Date de décès</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="4bfb07844033180c231d91a30ebfafa6161d108c">
+        <source>death_town</source>
+        <target>Ville de décès</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="2b370a20845d279acf604a66f2b78a69e61a8b09">
+        <source>shop_flowers</source>
+        <target>Boutique de fleurs de deuil</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="5a32dec2ba33d5372ce6e7522603cb201f0611a2">
+        <source>in_stock</source>
+        <target>En stock</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="ef9e45749e71daf8a8637e18717790031dead9ab">
+        <source>best_product</source>
+        <target>Meilleure vente</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="ddfe49cf08e2929cd6b5333583d10e3cd6af8fb2">
+        <source>shop_url_defunct</source>
+        <target>https://www.simplifia.fr/boutique?defunct_uuid=%defunct_uuid%&amp;aff=%defunct_shop_tag%</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="38ec2157ae702434500c00bf6cca1f7d36b967db">
+        <source>safe_payment</source>
+        <target>Votre paiement 100% sécurisé</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="5f12b9f6c4145083bc5810159e44b5bee5cb96a3">
+        <source>delivery_on_time</source>
+        <target>Livraison garantie pour la cérémonie</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="00571c83b4315ea95beb915a10ecb54bf8d8e3a1">
+        <source>help_phone</source>
+        <target>Assistance au 04.26.78.43.09</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="73f36f9e8f16adfc8883aaaf7c0d297c522e75c1">
+        <source>social_network_share</source>
+        <target>Partage sur les réseaux</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="d6d5e1ad72f88aa9d23b6ba126d2d82163f8d464">
+        <source>message_write</source>
+        <target>Laissez votre message</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="9be44b626a4bb29de67b8dc73cec2935028ff0b7">
+        <source>message_publish</source>
+        <target>PUBLIER</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="b4bfe5e7ed1d4d9e7c8e44c60c8310ca191b961f">
+        <source>your_name</source>
+        <target>Votre nom</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="3c01194f0302cd3f364c66e86e7283cf37e21604">
+        <source>your_email</source>
+        <target>Votre adresse email</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="2d085b5c40a35661b82892f70292560f102c0a01">
+        <source>send_message</source>
+        <target>ENVOYER</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="c91d54dedc8424fd698e7190c300168319d80317">
+        <source>email_recipient</source>
+        <target>Email du destinataire</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="b7cc43c74a4b8456086f88d0aa864da8d4b6253c">
+        <source>phone_recipient</source>
+        <target>N° de téléphone du destinataire</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="6cbc07a5e3ecaf97ec2d72881e1f779a0896e4b4">
+        <source>sms_character_limit</source>
+        <target>%nb_character% caractères maximum</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="1c7bf9e32f65722fc0c02a99cec41580c6d2c398">
+        <source>simplifia_team</source>
+        <target>L'équipe de Simplifia</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="0fab64f1d33bf204f58ac97b0291debf9457e908">
+        <source>hello</source>
+        <target>Bonjour</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="38841275bac53dcb77de7818639d8934058f3f63">
+        <source>page_number</source>
+        <target>sur</target>
+        <note>Page X sur X</note>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="c86e005ee8ac74a2c55be15071f0777c5d609f6d">
+        <source>everyday_everyhour</source>
+        <target>7j/7 - 24h/24</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="0b0e9dc992fbfe66d1e9e375fc37162a3e7b20dd">
+        <source>distance_origin</source>
+        <target>À %kmnumber%km de %origin%</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="b1ab4bb7d067893df457e61022f53a9f83cad072">
+        <source>independence</source>
+        <target>100% indépendant</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="777dabdd186488553130419d5406a71b48c39f60">
+        <source>transparency_and_quality</source>
+        <target>Transparence et qualité garanties</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="e7055ef12e24a5af4ca757af1afd4b270c00a769">
+        <source>funeral_reference</source>
+        <target>La référence du funéraire</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="c6f1690ecfd6098249e9c18fcc8f66f5398fce16">
+        <source>one_service_for_each_need</source>
+        <target>Simplifia propose un service adaptable à vos besoins</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="beaa2b02c02a8445d43257ffdf6c32eeb8d4fa66">
+        <source>simplifia_expert</source>
+        <target>Experts à votre service</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="84b60f343dc8cba53dd4cc2fd342c13a4e96892a">
+        <source>simplifia_expert_2</source>
+        <target>Les experts funéraires de Simplifia à votre service</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="649dc94116cab532413f93a02fbf2ba70c6da8f3">
+        <source>send_by_simplifia</source>
+        <target>Cet email vous a été envoyé par Simplifia</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="c70e26ca6065a2fb9bc5c4aeaec7f8c23997c7c7">
+        <source>simplifia_address</source>
+        <target>65, rue du Bourbonnais 69009 Lyon</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="83d5649f193ce8fe328be72f1d831674b57b83c4">
+        <source>online_funeral_arrangement</source>
+        <target>Organisez vos obsèques en ligne</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="8ca1f836c85e2674df67644ac1d3509f4a0e1af1">
+        <source>price_web</source>
+        <target>Prix constaté : 10 à 15% moins cher qu'en agence</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="136781c32ff4c64e7f6280298bf78afa05af80ea">
+        <source>quotation_url</source>
+        <target>https://www.simplifia.fr/obseques-en-ligne/devis/</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="b5ac74191d2363c9f529a397246dab0ac2a6db2b">
+        <source>supported_family_1</source>
+        <target>+ de 56 000</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="7d417ece85d7a2e08864362d3309a7a6f0506ccf">
+        <source>supported_family_2</source>
+        <target>familles accompagnées</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="b05c41a59bd8bf68b5da5230c4f4a08c602fcd71">
+        <source>offer</source>
+        <target>Offre</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="807073f94da86afe93ed721351bd0300268378a4">
+        <source>special_web</source>
+        <target>spéciale web</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="714520f5e0c0df34f25f96959daef1ebdbe348e6">
+        <source>total_clients_chose_agency</source>
+        <target>familles accompagnées par cette agence</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="0dc6effadce41973c0022ff55ca08c7d6824f020">
+        <source>draw_up_quotation</source>
+        <target>ÉTABLIR UN DEVIS</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="54ceb0dbbaa880ed29becbf7960d673892460db5">
+        <source>years_of_experience_1</source>
+        <target>5 ans</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="7730214f37b00ab19b0a42043a4278d025aa75ad">
+        <source>years_of_experience_2</source>
+        <target>d'expérience dans l'organisation d'obsèques</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="1bc67e75df2d00ce26c1fe3f026ca1856a6e7002">
+        <source>funeral_partners_1</source>
+        <target>+ de 2 500</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="c89caf102d2dd5be3bcdc7f69c2c0b1961101744">
+        <source>funeral_partners_2</source>
+        <target>pompes funèbres partenaires en France</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="d8cbb79c40e2fa0efae5065fd6c8f2cf67da0529">
+        <source>customer_satisfaction_1</source>
+        <target>98%</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="f75b0165bb476d0403af0c9a7a9b8ae8e05712cb">
+        <source>customer_satisfaction_2</source>
+        <target>de clients satisfaits</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="3dca234b5e7a90d7e63cb44e47787d78e4b68983">
+        <source>mandatory_field</source>
+        <target>Ce champ est requis, merci de le compléter.</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="036fd3d1070d2d6d44a9a2fb0a07a292c9633375">
+        <source>no_result</source>
+        <target>Aucun résultat n'est disponible pour cette recherche, veuillez réessayer.</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="bce38a56ce968fd9f8b6e7f1d785098990e48288">
+        <source>page_error</source>
+        <target>Une erreur a été rencontrée, veuillez recharger la page pour afficher le contenu.</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="98f3749457e6fd72e4157b8e5061435f34d34559">
+        <source>invalid_email</source>
+        <target>Cette adresse email n'est pas valide</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="74c045a222a5e2b86a1169d0418b44ee38c94093">
+        <source>todo_trad</source>
+        <target>  TRAD A FAIRE  </target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="43f7d39ee373fe0c8309e70268aa6f8b4840ce11">
+        <source>none_review</source>
+        <target>Aucun avis en ligne n'est actuellement disponible pour cette agence.</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="0112208f8f16ed4c43d04f2600c9d52c1cd00d27">
+        <source>none_obituary</source>
+        <target>Aucun avis de décès n'est actuellement disponible pour cette agence.</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="021e3c2787d083cf17c118e60f0f92ef5ac79d89">
+        <source>none_score</source>
+        <target>n.c.</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="160b8eccdc7fd5be5edd8643229af9710bf54a18">
+        <source>mr</source>
+        <target>Monsieur</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="5ceb7b9b91953d09cebad1267c8707b041d506d5">
+        <source>mrs</source>
+        <target>Madame</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="ccf3d0640bab6d743c90831669d679dbfaebf45f">
+        <source>miss</source>
+        <target>Mademoiselle</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="77a8b4b5cb38144de4160db8e5c9531188295ecf">
+        <source>tunob</source>
+        <target>Obsèques en ligne</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="d21259b23022c0272500c465b605b0df8146e652">
+        <source>tunob_url</source>
+        <target>https://www.simplifia.fr/obseques-en-ligne/</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="a80cdd6710348b924c898989407ae5b351d140a0">
+        <source>obituaries</source>
+        <target>Avis de décès</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="89604a9e59dcf01a5ec7a487a0186516add7ceab">
+        <source>obituaries_url</source>
+        <target>https://www.simplifia.fr/avis-de-deces/</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="cd9e967b056cebad161237167d3fa60ce08ac8b1">
+        <source>directory</source>
+        <target>Annuaires</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="c2b95e6bb1cfff431e6454cca9e701989bde3626">
+        <source>directory_url</source>
+        <target>https://www.simplifia.fr/pompes-funebres/</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="d2ac5430a7cb70814ebd8c48b2159431e72f2da9">
+        <source>shop</source>
+        <target>Boutique</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="ddb570386297f21e4f205f9adb98e34466711135">
+        <source>shop_url</source>
+        <target>https://www.simplifia.fr/boutique/</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="ee3606941a644e3f12968f724ae8d43f5e0b7ffb">
+        <source>homepage_url</source>
+        <target>https://www.simplifia.fr/</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="40842386cdda8e989af218dbd36f768c0a99533b">
+        <source>social_network</source>
+        <target>Nous suivre</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="c39107e510be0b044ff4dc1e9cd8ef5d93c0bc9f">
+        <source>facebook_url</source>
+        <target>https://www.facebook.com/simplifia/</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="993cb7cb26bf68c9aad877258b660ba2bcdbc6bc">
+        <source>twitter_url</source>
+        <target>https://twitter.com/Simplifia_info</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="621b24aed0e17906a2ca4c808021ef66bba69a24">
+        <source>google_url</source>
+        <target>https://plus.google.com/101512816171260496945</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="c887b47ed860cc3ee9444598aefb2e0ad08a5855">
+        <source>linkedin_url</source>
+        <target>https://www.linkedin.com/company/simplifia</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="b2ee3def16be99288693b99047c08e3929c99dad">
+        <source>who_are_we</source>
+        <target>Qui sommes-nous ?</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="72ccb877c8636cf8234cc020e6053ab13d2e3007">
+        <source>who_are_we_url</source>
+        <target>https://simplifiaforbusiness.com/missions/</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="d8e288d701d0e00cf9e76267cf3713e0a390a1a6">
+        <source>partners</source>
+        <target>Nos partenaires</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="e3fc81a884735bd915c401dce51ec2375a426db6">
+        <source>partners_url</source>
+        <target>https://www.simplifia.fr/demarchesenligne/quisommesnous.php#ancrePartenaires</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="9600af284a493c8307e574ceaa9b144b5405328f">
+        <source>press</source>
+        <target>Presse</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="123e021890e4812db3f4e8b0d5e1998d963e2723">
+        <source>press_url</source>
+        <target>https://simplifiaforbusiness.com/presse/</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="f5dd03d1201b33e7450741acc8c8df9b9b49811d">
+        <source>contact</source>
+        <target>Contact</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="ebd3354e52e42fa6b024b70cfeb4d9dfd762f131">
+        <source>contact_url</source>
+        <target>https://www.simplifia.fr/formulairecontact.php</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="d00274a9c6ad5fa1b68ee289795ea4c14c0c8b3c">
+        <source>all_rights_reserved</source>
+        <target>Tous droits réservés</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="faf6d578b90b6f04ec20f5b96effda70d4ccc1d7">
+        <source>cgv</source>
+        <target>CGV</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="e2d8c100a36df6285ff1fea22ebcf0d495fe29ac">
+        <source>cgv_url</source>
+        <target>https://www.simplifia.fr/cgv</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="3ee554108b53b8b2b8f81c0cacd5c2ce30fb128f">
+        <source>cgu</source>
+        <target>CGU</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="8c915aacb68566022419bd0b4ef91f782e883872">
+        <source>cgu_url</source>
+        <target>https://www.simplifia.fr/cgu</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="c9bb24b9545e055cf900d8d46291f752613fa4dd">
+        <source>legal_notice</source>
+        <target>Mentions légales</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="9c6e4a9b262818f1a42cf17ad97f2158ab65a741">
+        <source>legal_notice_url</source>
+        <target>https://www.simplifia.fr/demarchesenligne/mentionslegales.php</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="e654886053ecaf19f2068320e012607c86219290">
+        <source>login_url</source>
+        <target>//www.simplifia.fr/connexion.php</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="bd05ab3bee7e01594614c44d8a3ff4022451742e">
+        <source>rad_1</source>
+        <target>Annuaire des pompes funèbres de France - Simplifia</target>
+        <note>Title homepage</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="fa953fada4e40b88fd82c2f81a79def780830b96">
+        <source>rad_2</source>
+        <target>L'annuaire Simplifia compare les services funéraires des pompes funèbres de France: organisation d'obsèques, marbrerie... Devis gratuit sans engagement</target>
+        <note>Metadescription homepage</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="c5a64f97f1bc6c40c4ab88ddb0e52929068a8784">
+        <source>rad_3</source>
+        <target>Recherchez une pompe funèbre</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="82f6aa775e3eee607687c1d52bd4ebc3b929b16e">
+        <source>rad_4</source>
+        <target>Faites votre choix parmi plus de 4 000 agences en France</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="bd28c58b6fd9380ccdb199021a2c7c9c3f0e8254">
+        <source>rad_5</source>
+        <target>Entrez une ville</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="16c1f73695117c82f8912b0782ca88500c1f8499">
+        <source>rad_6</source>
+        <target>96% des pompes funèbres référencées</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="9ce69f6fbf8beabc656c15b94b1947bbe0be9517">
+        <source>rad_7</source>
+        <target>Recherchez parmi toutes les agences de France</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="6081fbd6d9cfb2215d3a170103d3e5c3830caebb">
+        <source>rad_8</source>
+        <target>Avis certifiés authentiques</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="92fa3c4d4bf4c8ebd90ddbe5d2a431c5a5bafd7c">
+        <source>rad_9</source>
+        <target>Les avis proviennent d'enquêtes qualité menées auprès des familles</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="3c0c5c3ae0bcb65c08aa98e71114a5b7d0a9b7ff">
+        <source>rad_10</source>
+        <target>Devis gratuit et sans engagement</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="1386e678683876f10d65d8576d165d520f3c1853">
+        <source>rad_11</source>
+        <target>Demandez vos devis gratuits par téléphone ou via notre offre en ligne Simplifia</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="8a1a4bd6b149aedb7649258050cf2b4a54c32021">
+        <source>rad_12</source>
+        <target>Nous vous accompagnons partout en France</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="0f5146751f8d9505ae966ead28175697f0f18e8e">
+        <source>rad_13</source>
+        <target>Simplifia à vos côtés depuis 5 ans</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="3ed80daa7deee5bdc47a8ec4de9cecbf9601f070">
+        <source>rad_14</source>
+        <target>Partenaire</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="b6bcdb839ec1fdd353ce9b8ac3a3d5f9eb6d84fc">
+        <source>rad_15</source>
+        <target>Partenaires</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="90705c0a47ff055b959f717c60935beaaf0e191d">
+        <source>rad_16</source>
+        <target>%pfname% à %city% - Pompes funèbres</target>
+        <note>Title page agence</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="35793e578af3e2a8d9aacbd3e2a52a465969e285">
+        <source>rad_17</source>
+        <target>%pfname% propose ses services funéraires à %city% (organisation d'obsèques, marbrerie, prévoyance décès) Devis gratuit en ligne</target>
+        <note>Metadescription page agence</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="3f5c27cdaceea5b05aca6e685dcf7864faf4ac7b">
+        <source>rad_18_paragraph</source>
+        <target>L’agence funéraire %pfname% vous apporte son assistance pour vous aider à gérer la perte d’un proche. Elle intervient sur la commune de %city% et ses alentours 24h sur 24 et 7j sur 7, avec ou sans rendez-vous. Des formules adaptées à toutes les situations sont proposées et son équipe est à votre écoute pour toutes questions relatives aux obsèques.</target>
+        <note>Texte SEO 1</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="f26ec1e891e68c829cd68ff3adbdbacc7ed3e9bd">
+        <source>rad_19_paragraph</source>
+        <target>Les pompes funèbres %pfname% sont à votre disposition à toute heure de la semaine pour vous apporter ses services en cas de décès dans la commune de %city% et ses alentours. Ses agents funéraires vous accompagnent dans l’organisation des funérailles, du transport du corps à la cérémonie, et vous donnent tous les conseils nécessaires à leur bon déroulement.</target>
+        <note>Texte SEO 2</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="b2e4bd90ff58eced3dc2efa2421bc7308a03f062">
+        <source>rad_20_paragraph</source>
+        <target>L’établissement %pfname% vous accompagne suite au décès d’un proche tous les jours sans rendez-vous, à %city% et ses alentours. Son équipe de conseillers se tient à votre service pour répondre à toutes vos questions concernant l’organisation des obsèques (crémation, inhumation, cérémonies, ...). L’agence prend également en charge le transport du corps en France comme à l’étranger, dans le respect des volontés du défunt.</target>
+        <note>Texte SEO 3</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="680a6be6466a586d2bf5c9218d83f73eb6deedbf">
+        <source>rad_21</source>
+        <target>Devis gratuit au %phonenumber%</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="f2596b98ba408a8d3051f682545df6a944b514f3">
+        <source>rad_22</source>
+        <target>Voir les %nbreviews% avis</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="0d8693e60332cd5fc075b1730e6fdaedd7ece940">
+        <source>rad_23</source>
+        <target>Informations</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="f5073ae08642977b23a17866789ad71dde4befa4">
+        <source>rad_24</source>
+        <target>Avis client</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="267e57560e6c5e25f09d737c8f631a5c077adccc">
+        <source>rad_25</source>
+        <target>Avis de décès</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="3991e50162493a23c88b7523e5c00a51673895e5">
+        <source>rad_26</source>
+        <target>Tous les avis proviennent de familles ayant bénéficié des services de l'établissement %pfname%</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="402edf93e55117f7a63c99bfe9078d7a094b7a0a">
+        <source>rad_27</source>
+        <target>Accueil</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="426865ef8def063b9af212a097566327aafe3b94">
+        <source>rad_28</source>
+        <target>Accompagnement dans l'organisation des obsèques</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="37fadf0effd7c1efd4262d7c58d6c015dd634c84">
+        <source>rad_29</source>
+        <target>Qualité des prestations</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="40b0929cfe301e3a802c0078e066e3cbd25fdb7e">
+        <source>rad_30</source>
+        <target>Personnel lors de la cérémonie</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="fa23ac1def96003c95e080df0b4f79a8968567fe">
+        <source>rad_31</source>
+        <target>Qualité de la cérémonie</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="42af0179b16c191f56f713e7134349d5cdf3bd98">
+        <source>rad_32</source>
+        <target>Rapport qualité/prix</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="b245b375602ef8ea1f619d98d4828a1ae6997811">
+        <source>rad_33</source>
+        <target>Note moyenne</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="d3257e216a421021a050e20e8b255a2935057f5c">
+        <source>rad_34</source>
+        <target>Demandez votre devis gratuit</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="588c724a18db4416ecfeb3aa5c353f3a6668459c">
+        <source>rad_35</source>
+        <target>Appel gratuit</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="ce136f4d342541f6ee1b4b8f0d7d336e82965e14">
+        <source>rad_36</source>
+        <target>Sans engagement</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="343cdbb1740a35412a077d722e0032c01f7d4616">
+        <source>rad_37</source>
+        <target>Assistance décès</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="ac33136e70f0b3d454d4d2773ab61370e83214fb">
+        <source>rad_38</source>
+        <target>Agences de pompes funèbres aux alentours</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="eeebc0359c036e980c32b1f77332a9933c7f2c58">
+        <source>rad_39</source>
+        <target>Pompes funèbres %city% - Annuaire de pompes funèbres - Simplifia</target>
+        <note>Title page liste</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="7646be01af929ac3382fa5cbc35165a6629ae496">
+        <source>rad_40</source>
+        <target>La liste des pompes funèbres de %city% est sur Simplifia. Organisez des obsèques ou demandez un devis gratuit en choisissant une agence funéraire</target>
+        <note>Metadescription page liste</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="ae59900295951f100572e0eda226c15dce85c7a6">
+        <source>rad_41</source>
+        <target>%pfnumber% agences de pompes funèbres à proximité de %city%</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="d9707700e4c6c2960b67fcf989201487098f860b">
+        <source>rad_43</source>
+        <target>%city% et le funéraire</target>
+        <note>Title texte SEO</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="bdb50185a06c1a64dcdf24319d666c0b33e3555c">
+        <source>rad_44</source>
+        <target>Retrouvez toutes les agences funéraires de la ville de %city% dans la liste ci-dessous. Chacune d'entre elles propose une variété de services pour l'organisation de funérailles et se tient à votre disposition pour vous conseiller dans toutes les étapes après un décès : cérémonie, inhumation ou crémation, etc.</target>
+        <note>texte SEO 1</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="d5936ba5dbe964896e4081d564ee135a001800d9">
+        <source>rad_45</source>
+        <target>Toutes les pompes funèbres de la ville de %city% sont disponibles sur cette page. Laissez-vous guider par les commentaires des familles pour choisir l'agence qui répond le mieux à vos besoins pour l'organisation d'obsèques. En cas de doute, il vous est possible de faire une demande de devis gratuit et sans engagement.</target>
+        <note>texte SEO 2</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="069ef498d7c918ee297a39a925b4dcfcd967c5b6">
+        <source>rad_46</source>
+        <target>Sélectionnez parmi les agences de pompes funèbres à proximité de %city% pour gérer toutes les démarches après un décès : transport du corps, cérémonie, crémation ou inhumation, etc. Les conseillers funéraires de chaque établissement de la ville sont là pour vous accompagner 24h/24 et 7j/7.</target>
+        <note>texte SEO 3</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="540643740297e2e0e1c124038821429ddab017a4">
+        <source>rad_47</source>
+        <target>Saisissez le nom d'une ville dans la barre de recherche pour afficher la liste de pompes funèbres</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="1d9a85bacd78edfbcc219edeab090244ce7f8940">
+        <source>rad_48</source>
+        <target>Aucune recommandation pour cette agence</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="564a1aa7fc5997af741ea3bb19570938a2fe0119">
+        <source>rad_49</source>
+        <target>Aucun résultat</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="962d98988e4655be108d2e1bb71108ab0ad4b63f">
+        <source>rad_50</source>
+        <target>Pompes funèbres</target>
+        <note>Title funeralhome if no data</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="164d6b16dc6c04ff7987fb5dc6b4caabdb3722a7">
+        <source>rad_51</source>
+        <target>Le funéraire</target>
+        <note>Title texte SEO if no datas</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="0dd120a9d605110163aad18cc35fd74875e400e5">
+        <source>rad_18_title</source>
+        <target>Présentation de l'agence %pfname%</target>
+        <note>title SEO 1</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="946aba281a8854fc0e268b6a9be8e99eb149662a">
+        <source>rad_19_title</source>
+        <target>Services funéraires de l'agence %pfname%</target>
+        <note>Title SEO 2</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="52acb725b295c631305e2750b25369d8d02916d0">
+        <source>rad_20_title</source>
+        <target>Présentation de la pompe funèbre %pfname%</target>
+        <note>Title SEO 3</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="4746245ff4b83acc87c7c615eb4483428a158d24">
+        <source>rad_58</source>
+        <target>Un outil en ligne pour organiser vos obsèques en 2 clics</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="afa92af8627b67c84b99a3188bd6631fb02a691b">
+        <source>rad_59</source>
+        <target>Une garantie de transparence sur le prix des services</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="d41ea21eab505ab9f800d082a4e0e75d5484ed77">
+        <source>rad_60</source>
+        <target>Un ensemble de prestataires approuvés par nos familles</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="3b4915067dba194db68ba3344c175e26b264fb35">
+        <source>rad_61</source>
+        <target>Un interlocuteur unique, à tout moment, gratuitement</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="2dad26a694b3c9e344790892cf5d262349b368a3">
+        <source>rad_62</source>
+        <target>Organisation d'obsèques sur internet</target>
+        <note>Alt Encart liste</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="63e9f117712d035f580482cf55f7b9881a87eb8e">
+        <source>rad_63</source>
+        <target>Annuaire de pompes funèbres</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="458ecfaa1bc30269f38494fc01bf0b0de6af7631">
+        <source>rad_64</source>
+        <target>Comparez et choisissez l'agence de pompes funèbres qui correspond le mieux à vos besoins</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="afe1b006435ef62272289206396bed5e5336f031">
+        <source>rad_65</source>
+        <target>+ de 4 000 agences</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="497f03abc4a346151eecc027f998a18c4ee3eb73">
+        <source>rad_66</source>
+        <target>Pompes funèbres en France</target>
+        <note>Alt nombre d'agences</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="fc5a21d023edac28566be22e47b14dcfb2f6e207">
+        <source>rad_67</source>
+        <target>Avis certifiés authentiques</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="1d5244715bd8167e3afcf276c0baa663c3184757">
+        <source>rad_68</source>
+        <target>Authenticité des avis</target>
+        <note>Alt avis</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="7485d551e89776387884f4038f31adfe6be6f44e">
+        <source>rad_69</source>
+        <target>Devis gratuit</target>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="7a257ca5fe29f62a0483d08947f630cd1a9013d1">
+        <source>rad_70</source>
+        <target>Demandez votre devis gratuit</target>
+        <note>Alt devis</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="ee502fe80a0e06d23db6e00fb5d7841d9855184c">
+        <source>rad_71</source>
+        <target>Annuaire en ligne de pompes funèbres</target>
+        <note>Alt encart widget</note>
+        <note from="meaning" priority="1">rad</note>
+      </trans-unit>
+      <trans-unit id="00f19aa606f7734caf747825ad40dd7314b8f33c">
+        <source>mem_1</source>
+        <target>Recherchez un avis de décès</target>
+        <note>Title homepage</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="c45e2be5a0534fbcf97ce17cf03f7208467a5c04">
+        <source>mem_2</source>
+        <target>Retrouvez les avis de décès en France sur Simplifia avec infos sur les obsèques (adresses église et cimetière, horaires enterrement et cérémonie)</target>
+        <note>Metadescription homepage</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="5281a9f0c9acd1b88852ab15e7e98cd25a79909e">
+        <source>mem_8</source>
+        <target>Consultez les avis de décès avec les informations pratiques des funérailles</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="21debf8cc96b31ddbecff5dbf09a3db5d162530a">
+        <source>mem_10</source>
+        <target>Entrez un nom de famille</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="8bd4940cb8a05f025c0769490d4401ea86373865">
+        <source>mem_15</source>
+        <target>Tous les décès de France</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="1a00e258f403e4baee94da4c7c8b24ef2429072d">
+        <source>mem_16</source>
+        <target>Retrouvez tous les avis de décès de France du jour ou faites une recherche par nom de famille</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="a1481c43e3e938af31cc1b215beee8c3b4c82d4f">
+        <source>mem_18</source>
+        <target>Informations sur les funérailles</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="19db78fb791732eecb56aa2639056480cd2d800c">
+        <source>mem_19</source>
+        <target>Toutes les informations des funérailles sont disponibles (horaires et adresses de la cérémonie et de l'enterrement)</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="f9d9a81ba828b73fbf8f3371f7bd80421d87c679">
+        <source>mem_21</source>
+        <target>Soutenez la famille</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="6bcbbda8f9f66ac66062e92977d3fdc6df293e7e">
+        <source>mem_22</source>
+        <target>Déposez des messages de condoléances ou envoyez des fleurs à la famille pour rendre hommage au défunt</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="e51c0c1281ea60b2f72afd7416e50ae3541d8b63">
+        <source>mem_23</source>
+        <target>Avis de décès du jour</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="7a40da98ce5c85803a3a8a5a437833e16da294c2">
+        <source>mem_28</source>
+        <target>Avis de décès %full_name%</target>
+        <note>Alt Image personnalisée</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="df1b83213dbf694592226f8fe794e07ed3d4ccb4">
+        <source>mem_33</source>
+        <target>VOIR PLUS</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="404313280aaaac2caeb4db0d5c188059f99ad22f">
+        <source>mem_34</source>
+        <target>Derniers avis de décès publiés en France</target>
+        <note>Title Derniers avis</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="4cc8bc8792858bd4185db706f82eadc8420acbf5">
+        <source>mem_35</source>
+        <target>Tous les avis de décès du jour publiés en France sur Simplifia. Informations sur les funérailles, mémorial de condoléances et envoi de fleurs de deuil</target>
+        <note>Metadescription</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="ed9dc87d4876d8bd1003c96f53967417729a9f52">
+        <source>mem_36</source>
+        <target>Derniers avis de décès</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="336bd9ee52f052f342b7ce4f56e5d5663cbe37c7">
+        <source>mem_37</source>
+        <target>Vous cherchez des informations sur un avis de décès du jour. </target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="d2d58fd8fd72df7aea9674d97d4ba6f649837c9e">
+        <source>mem_38</source>
+        <target>Consultez la liste ci-dessous et retrouvez les informations nécessaires pour vous rendre aux obsèques en cliquant sur un avis de décès.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="9d908bfba9bada7f5f6b48f62d5a1e55dab511f9">
+        <source>mem_46</source>
+        <target>%fullname% - Avis de décès %city% - Simplifia</target>
+        <note>Title Page ADC</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="111d3de9237245b24dbb3b6672e350c6bb2c9776">
+        <source>mem_47_m</source>
+        <target>Retrouvez les informations des funérailles de %fullname% à %city%. Horaire cérémonie, livraison de fleurs de deuil, condoléances en ligne...</target>
+        <note>Metadescription Page ADC</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="aa3d393603674f220d42756364c28cc29a5d930f">
+        <source>mem_47_f</source>
+        <target>Retrouvez les informations des funérailles de %fullname% à %city%. Horaire cérémonie, livraison de fleurs de deuil, condoléances en ligne..</target>
+        <note>Metadescription Page ADC</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="2454a7836524b88ba8d0d298431db7a3bf144c81">
+        <source>mem_48_title_m</source>
+        <target>Retrouvez toutes les informations des funérailles de %fullname% à %city% sur cet avis de décès.</target>
+        <note>Texte SEO 1 inhumation title</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="b7b5f384c03428f916f251266700730d873275e1">
+        <source>mem_48_paragraph_m</source>
+        <target>Nous vous indiquons l'adresse de l'église pour la cérémonie, celle du cimetière pour l'enterrement et d'autres informations pratiques. Simplifia vous donne la possibilité d'envoyer des fleurs de deuil aux proches de %fullname% et de déposer des condoléances en ligne. Retrouvez tous les autres avis de décès de %city% sur Simplifia.</target>
+        <note>Texte SEO 1 inhumation paragraph</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="c54a639f37e8e12613c271c93bb4c27f7a62a648">
+        <source>mem_48_title_f</source>
+        <target>Retrouvez toutes les informations des funérailles de %fullname% à %city% sur cet avis de décès.</target>
+        <note>Texte SEO 1 inhumation title</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="e0af21db699605844b571527f8dd97a28ab46ce2">
+        <source>mem_48_paragraph_f</source>
+        <target>Nous vous indiquons l'adresse de l'église pour la cérémonie, celle du cimetière pour l'enterrement et d'autres informations pratiques. Simplifia vous donne la possibilité d'envoyer des fleurs de deuil aux proches de %fullname% et de déposer des condoléances en ligne. Retrouvez tous les autres avis de décès de %city% sur Simplifia.</target>
+        <note>Texte SEO 1 inhumation paragraph</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="125e94e7280d01918af33ab564b1f2ffd90054b1">
+        <source>mem_49_title_m</source>
+        <target>Retrouvez les horaires de la cérémonie et de l'inhumation de %fullname%</target>
+        <note>Texte SEO 2 inhumation title</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="ad1746fd87d19a9035707a4038de9d2b5f3d74e4">
+        <source>mem_49_paragraph_m</source>
+        <target>Les adresses de l'église et du cimetière pour l'inhumation sont indiquées ci-dessous. Vous pouvez offrir des fleurs de deuil à la famille de %fullname% en livrant à l'adresse que vous souhaitez ou en cérémonie. Il est aussi possible de déposer des condoléances sur ce mémorial. Parcourez tous les avis de décès de %city% sur Simplifia.</target>
+        <note>Texte SEO 2 inhumation paragraph</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="c0efcc01af23e71183eb465880ea2150b737f249">
+        <source>mem_49_title_f</source>
+        <target>Retrouvez les horaires de la cérémonie et de l'inhumation de %fullname%</target>
+        <note>Texte SEO 2 inhumation title</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="120d051b22be0403b150d5e6088fbce6277d29dd">
+        <source>mem_49_paragraph_f</source>
+        <target>Les adresses de l'église et du cimetière pour l'inhumation sont indiquées ci-dessous. Vous pouvez offrir des fleurs de deuil à la famille de %fullname% en livrant à l'adresse que vous souhaitez ou en cérémonie. Il est aussi possible de déposer des condoléances sur ce mémorial. Parcourez tous les avis de décès de %city% sur Simplifia.</target>
+        <note>Texte SEO 2 inhumation paragraph</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="352e6974ad4698c799a627645a8a687997f4c599">
+        <source>mem_50_title_m</source>
+        <target>L'avis de décès de %fullname% est sur Simplifia</target>
+        <note>Texte SEO 3 inhumation title</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="b3ebd2668734b342576e8eead62f8af6d786987f">
+        <source>mem_50_paragraph_m</source>
+        <target>Les coordonnées et horaires des funérailles de %fullname% sont disponibles ci-dessous avec les plans pour accéder à l'église et au cimetière. Vous pouvez laisser un message de condoléances à la famille de %fullname% dans le registre en ligne. Retrouvez tout les autres avis de décès de %city% sur Simplifia.</target>
+        <note>Texte SEO 3 inhumation paragraph</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="b5ae271f311c3e35e33beb3e8b8e7c9b2c33a682">
+        <source>mem_50_title_f</source>
+        <target>L'avis de décès de %fullname% est sur Simplifia</target>
+        <note>Texte SEO 3 inhumation title</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="b3b73b7b0924bffc2f37991feafb7e87c53e7d13">
+        <source>mem_50_paragraph_f</source>
+        <target>Les coordonnées et horaires des funérailles de %fullname% sont disponibles ci-dessous avec les plans pour accéder à l'église et au cimetière. Vous pouvez laisser un message de condoléances à la famille de %fullname% dans le registre en ligne. Retrouvez tout les autres avis de décès de %city% sur Simplifia.</target>
+        <note>Texte SEO 3 inhumation paragraph</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="d74f03813e617a43de50377bf4b49adbfe1e78ad">
+        <source>mem_51_title_m</source>
+        <target>Retrouvez les horaires de la cérémonie et de la crémation de %fullname%.</target>
+        <note>Texte SEO 1 cremation title</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="5f47ea7f6d24b5ae334a7c07bf9e09711319c8df">
+        <source>mem_51_paragraph_m</source>
+        <target>Vous pouvez offrir des fleurs de deuil à la famille de %fullname% en livrant à l'adresse que vous souhaitez ou au crématorium. Il est aussi possible de déposer des condoléances sur ce mémorial. Parcourez tous les avis de décès de %city% sur Simplifia.</target>
+        <note>Texte SEO 1 cremation paragraph</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="4684f8b2c73b1c1a5ebf664e0a1cf9a93a437ee8">
+        <source>mem_51_title_f</source>
+        <target>Retrouvez les horaires de la cérémonie et de la crémation de %fullname%.</target>
+        <note>Texte SEO 1 cremation title</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="4811e6a0568ee71e804dc05934569841592a4199">
+        <source>mem_51_paragraph_f</source>
+        <target>Vous pouvez offrir des fleurs de deuil à la famille de %fullname% en livrant à l'adresse que vous souhaitez ou au crématorium. Il est aussi possible de déposer des condoléances sur ce mémorial. Parcourez tous les avis de décès de %city% sur Simplifia.</target>
+        <note>Texte SEO 1 cremation paragraph</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="1a9762b0f66992802ef9dd4ae7b63092009c0523">
+        <source>mem_52_title_m</source>
+        <target>Toutes les informations sur les obsèques et la crémation de %fullname% sont disponibles sur cet avis de décès</target>
+        <note>Texte SEO 2 cremation title</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="743090410b99c321755002c46258013b0a4645e9">
+        <source>mem_52_paragraph_m</source>
+        <target>Simplifia vous indique les adresses pour vous rendre au crématorium ou sur le lieu de la cérémonie. Vous pouvez aussi apporter votre soutien à la famille de %fullname% en déposant un message de condoléances sur le registre en ligne ou en faisant livrer des fleurs de deuil à l'adresse de votre choix. Parcourez la liste des avis de décès de %city% sur Simplifia.</target>
+        <note>Texte SEO 2 cremation paragraph</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="7304334a3f599f4b5c20d659d0b311a22a606920">
+        <source>mem_52_title_f</source>
+        <target>Toutes les informations sur les obsèques et la crémation de %fullname% sont disponibles sur cet avis de décès</target>
+        <note>Texte SEO 2 cremation title</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="0eab995a5aa9e96158d1564b510d4374d54969f8">
+        <source>mem_52_paragraph_f</source>
+        <target>Simplifia vous indique les adresses pour vous rendre au crématorium ou sur le lieu de la cérémonie. Vous pouvez aussi apporter votre soutien à la famille de %fullname% en déposant un message de condoléances sur le registre en ligne ou en faisant livrer des fleurs de deuil à l'adresse de votre choix. Parcourez la liste des avis de décès de %city% sur Simplifia.</target>
+        <note>Texte SEO 2 cremation paragraph</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="3bb3e467bd9e30cd8c6a39d44900fe96a049a77d">
+        <source>mem_53_title_m</source>
+        <target>L'avis de décès de %fullname% est sur Simplifia</target>
+        <note>Texte SEO 3 cremation title</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="9e2d6bba1459e4d4f99b3ca4a56c35601fe9acae">
+        <source>mem_53_paragraph_m</source>
+        <target>Les coordonnées du crématorium sont disponibles ci-dessous. Rendez un dernier hommage à %fullname% en laissant une condoléance sur cette page ou en livrant des fleurs sur le lieu des funérailles. Tous les avis de décès de %city% sont disponibles sur Simplifia.</target>
+        <note>Texte SEO 3 cremation paragraph</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="e3b0b151344a806fd82d4ffd214b3b47e0967bc8">
+        <source>mem_53_title_f</source>
+        <target>L'avis de décès de %fullname% est sur Simplifia</target>
+        <note>Texte SEO 3 cremation title</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="cf24b0d7a4620fabc679b60e905b3274ad67f461">
+        <source>mem_53_paragraph_f</source>
+        <target>Les coordonnées du crématorium sont disponibles ci-dessous. Rendez un dernier hommage à %fullname% en laissant une condoléance sur cette page ou en livrant des fleurs sur le lieu des funérailles. Tous les avis de décès de %city% sont disponibles sur Simplifia.</target>
+        <note>Texte SEO 3 cremation paragraph</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="365a0eadd726d7761bdbf29ea7ff65189c136e05">
+        <source>mem_69</source>
+        <target>Les funérailles sont organisées par les pompes funèbres :</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="fda156394f11dafeed7576f3c89ae507a16b0393">
+        <source>mem_71</source>
+        <target>Envoyez des fleurs à la famille de</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="aa3c68fa3ccb7ad4e1464c0d26dbfc86b613e731">
+        <source>mem_74</source>
+        <target>VOIR LES DERNIERS AVIS DE DÉCÈS</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="8b1d8d0f6b10a056184328dcbf7283b8e6e17063">
+        <source>mem_76</source>
+        <target>Allumez une bougie</target>
+        <note>Alt et tooltip</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="4c311a1ec31b319d9c4c4f4be3b16ba790177179">
+        <source>mem_81</source>
+        <target>Bougie allumée</target>
+        <note>Alt bougie</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="bdad641a2677f9397f00ff0392bd1d9951a4c4fe">
+        <source>mem_99</source>
+        <target>Avis de décès de %fullname%</target>
+        <note>Alt</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="2c20a5b83e19529549c4ff413720edc41e34e738">
+        <source>mem_100</source>
+        <target>Nous ne disposons pas des informations sur les funérailles.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="0b9ac4c28fc569fc35d238760776bfcee2174070">
+        <source>mem_101</source>
+        <target>Soyez le premier à déposer votre condoléance en ligne pour %fullname%</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="4e3ba1cc7667057d3916de1f4ed4c08afda8b8a3">
+        <source>mem_102</source>
+        <target>ÉCRIRE UNE CONDOLÉANCE</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="fe3c985597ced1b95d4cb67138e3a8c6a42f0417">
+        <source>mem_109</source>
+        <target>Nous ne disposons pas des derniers avis de décès.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="c92e69d622d14f0fcd7b8ccb0684a4baa30337f8">
+        <source>mem_110</source>
+        <target>Liste des avis de décès</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="f714c6de631f834c5393cfbf07fc2e13c8a28260">
+        <source>mem_111_title_m</source>
+        <target>L'avis de décès de %fullname% est sur Simplifia.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="b37161edd017cf2e4ed73422747e92942bc74483">
+        <source>mem_111_paragraph_m</source>
+        <target>Les informations sur les funérailles ne sont pas disponibles. Vous pouvez apporter du soutien à la famille en déposant un message de condoléances sur la page de %fullname%. Vous pouvez également faire livrer des fleurs de deuil à l'adresse de votre choix via notre boutique en ligne. Parcourez la liste des avis de décès de %city% sur Simplifia.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="0d63ffd7eb46646eef047dbd54b1a854b72d87fc">
+        <source>mem_111_title_f</source>
+        <target>L'avis de décès de %fullname% est sur Simplifia.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="bb4fb77355c4de9c66301c4457ff6719574e4b37">
+        <source>mem_111_paragraph_f</source>
+        <target>Les informations sur les funérailles ne sont pas disponibles. Vous pouvez apporter du soutien à la famille en déposant un message de condoléances sur la page de %fullname%. Vous pouvez également faire livrer des fleurs de deuil à l'adresse de votre choix via notre boutique en ligne. Parcourez la liste des avis de décès de %city% sur Simplifia.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="edb07def80aad98e4118de9da7034c31c0dc51cb">
+        <source>mem_112_title_m</source>
+        <target>L'avis de décès de %fullname% est sur Simplifia.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="18c77df137f030c1ac6bb0b4ae90d212ec60c6d3">
+        <source>mem_112_paragraph_m</source>
+        <target>Les coordonnées des obsèques n'ont pas été communiquées par la famille de %fullname%. Vous pouvez cependant laisser un message de condoléances sur le mémorial en ligne ou faire livrer des fleurs de deuil à l'adresse de votre choix. Retrouvez tout les autres avis de décès de %city% sur Simplifia.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="e0d38db521c8fc3c1b43d7a3e44a3f2c718125d7">
+        <source>mem_112_title_f</source>
+        <target>L'avis de décès de %fullname% est sur Simplifia.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="7f950c4957529d6cb062be544b27a0b0fa11584b">
+        <source>mem_112_paragraph_f</source>
+        <target>Les coordonnées des obsèques n'ont pas été communiquées par la famille de %fullname%. Vous pouvez cependant laisser un message de condoléances sur le mémorial en ligne ou faire livrer des fleurs de deuil à l'adresse de votre choix. Retrouvez tout les autres avis de décès de %city% sur Simplifia.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="cc9301eca362021b5e216ec8568a5d840a48be94">
+        <source>mem_113_title_m</source>
+        <target>L'avis de décès de %fullname% est disponible sur Simplifia.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="c5e956d7f73d3fbf6576e15c61a177bcdff74337">
+        <source>mem_113_paragraph_m</source>
+        <target> Déposez un message de condoléances pour un dernier hommage envers %fullname%, ou faites livrer des fleurs de deuil à l'adresse de votre choix. Tous les avis de décès de %city% sont disponibles sur Simplifia.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="84069cca171fc9d63f9f11023547516e3738dd24">
+        <source>mem_113_title_f</source>
+        <target>L'avis de décès de %fullname% est disponible sur Simplifia.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="44cb28371d4075aab20692625c5bac950111ad20">
+        <source>mem_113_paragraph_f</source>
+        <target> Déposez un message de condoléances pour un dernier hommage envers %fullname%, ou faites livrer des fleurs de deuil à l'adresse de votre choix. Tous les avis de décès de %city% sont disponibles sur Simplifia.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="ac083b92881ca38df02af2dc064ca09c88d3c847">
+        <source>mem_114</source>
+        <target>Bouquet de deuil "Sentiment" - Meilleure vente</target>
+        <note>Alt bouquet boutique</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="4157fb59a77017ae44090ca81090eb50582f6856">
+        <source>mem_115</source>
+        <target>Fleurs deuil bouquet orangé "Sentiment"</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="c2709361d6da53f1f4973bd02ed40f88aed70546">
+        <source>mem_116</source>
+        <target>A partir de %price% € </target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="147a22c616eb46a333cd10d4a2f2e76385fef42b">
+        <source>mem_117</source>
+        <target>https://www.simplifia.fr/boutique/fleurs-deuil/bouquet/fleurs-deuil-bouquet-orange-sentiment-116</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="5d463044f9c4160c9af1de5a850607e7dfacce2e">
+        <source>mem_118_subject_email</source>
+        <target>%sender_fullname% souhaite partager l’avis de décès de %defunct_fullname% avec vous</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="270a44bbd7797d4083555a5bbc8b7dd8cd91fd6c">
+        <source>mem_118_paragraph_1</source>
+        <target>%sender_fullname% souhaite partager l’avis de décès de %defunct_fullname% avec vous. Pour le consulter, veuillez cliquer &lt;a href="https://www.simplifia.fr/avis-de-deces/%slug%"&gt;ici&lt;/a&gt;.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="3e7f4b949f2c80701f201c0470de42366a490aad">
+        <source>mem_118_paragraph_2</source>
+        <target>Cet avis vous permet de prendre connaissance des lieux et horaires des funérailles, d’y faire livrer des fleurs ou encore de présenter vos condoléances en ligne.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="2cd8459130889a0f157e233793bc01a35f7875c1">
+        <source>mem_118_paragraph_3</source>
+        <target>Envoyez des fleurs de deuil pour %defunct_fullname% et offrez ainsi votre soutien à sa famille.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="b73693ce3857e7a42be5dd995915600d3dba7d53">
+        <source>mem_119</source>
+        <target>%defunct_fullname% nous a quittés. Consultez son avis de décès sur Simplifia et soutenez sa famille.</target>
+        <note>SMS</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="cd21aaf209e5bd922adb8d370ffc6a35f1b16415">
+        <source>mem_120</source>
+        <target>%defunct_fullname% nous a quittés. Consultez son avis de décès sur Simplifia et soutenez sa famille :</target>
+        <note>Twitter</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="88e6ca5455e7e698517c70bc140a504452f5f7f8">
+        <source>mem_121</source>
+        <target>Toute la famille a l’immense tristesse de vous annoncer le décès de %defunct_fullname%. Pour connaître les informations concernant les lieux de recueillement et de cérémonie ou pour faire livrer des fleurs, rendez-vous sur l’avis de décès en ligne :</target>
+        <note>Facebook</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="48599c5881885eeebae16551c558336a38edc35f">
+        <source>mem_122</source>
+        <target>Un lien renvoyant sur cette page sera ajouté à votre SMS.</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="1e37e4991b478e587a80a05f62d26e01e2e51f75">
+        <source>mem_123</source>
+        <target>Avis de décès %city% - Simplifia</target>
+        <note>Title</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="08f3148d6817dabe921656fb4986db2efd868abf">
+        <source>mem_124</source>
+        <target>Tous les avis de décès de %city% - Adresse et heure des obsèques - Livraison de fleurs de deuil - Condoléances en ligne</target>
+        <note>Metadescription</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="27abde5e82fd43cf6d6c53606df6fcfd8e1dbfa3">
+        <source>mem_125_title_seo1</source>
+        <target>Tous les avis de décès de la ville de %city% sont disponibles sur cette page.</target>
+        <note>Titre</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="c94ee98556005c4712d369d6a57affc26abbb2fe">
+        <source>mem_125_paragraph_seo1</source>
+        <target>Cliquez sur un avis pour connaître l'adresse et les horaires des obsèques. Vous avez la possibilité de faire livrer des fleurs de deuil à la famille et de déposer vos condoléances sur le mémorial en ligne.</target>
+        <note>Contenu</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="acd36268472e94ca42701f3a0b361cb318b26ae2">
+        <source>mem_126_title_seo2</source>
+        <target>Retrouvez la liste des avis de décès de %city% ci-dessous.</target>
+        <note>Titre</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="044bac2a754d2852d837e408a10446080a6b5ad0">
+        <source>mem_126_paragraph_seo2</source>
+        <target>En sélectionnant un défunt, vous pouvez consulter les informations relatives aux funérailles (cérémonie, enterrement, crémation, etc.) et faire livrer en temps et en heure des fleurs de deuil pour la famille. Vous pouvez également exprimer votre soutien en laissant un message sur l'avis de décès en ligne.</target>
+        <note>Contenu</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="c1e8798f8023f55ccbb16abe27a674460ecb6a39">
+        <source>mem_127_title_seo3</source>
+        <target>Cette page recense tous les avis de décès de la ville de %city%.</target>
+        <note>Titre</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="b24d36efa1bbd5084929d7f024d1b43db2342036">
+        <source>mem_127_paragraph_seo3</source>
+        <target>En cliquant sur un avis, vous aurez accès aux adresses et heure des funérailles. Une boutique de fleurs de deuil est disponible pour apporter votre soutien à la famille. Un mémorial en ligne est ouvert sur chaque avis de décès pour déposer un message de condoléances.</target>
+        <note>Contenu</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="1484c7a4b6e48039a4b2f3fe99c5a45a455ac496">
+        <source>mem_128_title_noseo</source>
+        <target>Retrouvez la liste des avis de décès ci-dessous.</target>
+        <note>Titre</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="c7beb13ab3e8b152e747d9c440a7158e093e4106">
+        <source>mem_128_paragraph_snoseo</source>
+        <target>En sélectionnant un défunt, vous pouvez consulter les informations relatives aux funérailles (cérémonie, enterrement, crémation, etc.) et faire livrer en temps et en heure des fleurs de deuil pour la famille. Vous pouvez également exprimer votre soutien en laissant un message sur l'avis de décès en ligne.</target>
+        <note>Contenu</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="a75f9e22fb67bbc88b38807b7d6c841804d7b464">
+        <source>mem_129</source>
+        <target>Avis de décès en ligne</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="c12946eec07e68f01a05b81b8f75d277c4ea73be">
+        <source>mem_130</source>
+        <target>Retrouvez tous les avis de décès de France mis à jour quotidiennement</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="839ac8d0371e048296c4c60b97437f463703bc84">
+        <source>mem_131</source>
+        <target>Retrouvez toutes les informations sur les funérailles</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="ba1538df56612a103b57b44983162cee70ebc741">
+        <source>mem_132</source>
+        <target>Informations obsèques</target>
+        <note>Alt info</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="d69cb0e3d90caa6d104c0bbe67aad9ee2899f0b7">
+        <source>mem_133</source>
+        <target>Faites livrer des fleurs sur le lieu de cérémonie</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="83fd931c05dbcb05fff24a2197939b03c80c5e94">
+        <source>mem_134</source>
+        <target>Livraison de fleurs</target>
+        <note>Alt livraison</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="dcee741be4439cf29795fe4cdd9a66c7e4e3d771">
+        <source>mem_135</source>
+        <target>Rédigez des condoléances personnalisées</target>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="c4e9e2d959b9e750e4134b5a03d53bbb169a1149">
+        <source>mem_136</source>
+        <target>Rédaction de condoléances</target>
+        <note>Alt condoléances</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+      <trans-unit id="66f38280ea5b1beb988dd12ceb342398a7d9031d">
+        <source>mem_137</source>
+        <target>Tous les avis de décès de France</target>
+        <note>Alt encart widget</note>
+        <note from="meaning" priority="1">mem</note>
+      </trans-unit>
+
+      <trans-unit id="18d756c89e125bc2c02d180cf9695b85d1193c33">
+        <source>max_lenght_field</source>
+        <target>todo_marie_max_length</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="45699b678eb1032e839867d56ce1cd599c0b200e">
+        <source>draw_up_quotation</source>
+        <target>Etablir un devis</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="d5f7a27888a83fde6dfbda84d009c1af9ad85f22">
+        <source>click_here</source>
+        <target>Cliquez ici</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="3a43b9dd22a13869f0c28f4cfe64f3975413c353">
+        <source>ashes</source>
+        <target>Dispersion des cendres</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="f282fe9ea9a4fd518b31d0c4b656eb6de7c3b51a">
+        <source>and_more</source>
+        <target>et plus</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="de03ff66c2539032ffcc1abe2a8db4eec18966ea">
+        <source>search_suggestion_error</source>
+        <target>Nous ne pouvons pas accéder à votre requête</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="a72723c1eed140e0d206aa44ecbb835ed81d0610">
+        <source>send_flowers</source>
+        <target>todo_send_flowers</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="12211e9f6766827e17d19f2bf76b60fe4a927bc4">
+        <source>to_the_defunct_family</source>
+        <target>todo_to_the_defunct_family</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="b82a24c35537e2685644f325229ce2aa56effc2d">
+        <source>to_this_address</source>
+        <target>todo_to_this_address</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="88790ce8b3902c701c6eb175d112ca42181a3cab">
+        <source>for_the_ceremony</source>
+        <target>todo_for_the_ceremony</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+      <trans-unit id="a2adc68acc600cfb9d0211afe659012b9824aafb">
+        <source>funerals</source>
+        <target>Funérailles</target>
+        <note from="meaning" priority="1">frk</note>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>
