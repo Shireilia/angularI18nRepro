@@ -136,10 +136,10 @@ module.exports = function (options) {
           exclude: [/\.(spec|e2e)\.ts$/]
         },
 
-        {
-          test: /\.xlf/,
-          loader: 'raw-loader'
-        },
+        // {
+        //   test: /\.xlf/,
+        //   loader: 'raw-loader'
+        // },
 
         /*
          * Json loader support for *.json files.
