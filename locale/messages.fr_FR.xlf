@@ -2,11 +2,94 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file source-language="en" datatype="plaintext" original="ng2.template">
     <body>
+
+      <trans-unit id="a278f94a50f38995d008d160786aea6315579375" datatype="html">
+        <source>shc_1</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
+      <trans-unit id="3423ef8aeb5bf89c372ea81a95de5decaebe554a" datatype="html">
+        <source>shc_2</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
+      <trans-unit id="28d5491ebd5c1095123653bb9fbfb273a15f5ac1" datatype="html">
+        <source>shc_3</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
+      <trans-unit id="81224d1d28b257e00deebb60cbdcb6f740a11fa8" datatype="html">
+        <source>shc_4</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
+      <trans-unit id="accf8ac855339eacfd2a347fe3041243420dfb61" datatype="html">
+        <source>shc_5</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
+      <trans-unit id="f638b17cd69ff6fc0ea17ac3f4c91fd60c01b5ac" datatype="html">
+        <source>shc_6</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
+      <trans-unit id="86261bb2f51eb110cbfaef51e3d16f53d05c1027" datatype="html">
+        <source>shc_7</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
+      <trans-unit id="4711a6bb329ed86f08c3d6ac61b2b13b1dbc57db" datatype="html">
+        <source>shc_8</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
       <trans-unit id="2bfbe52714913f74dabe25d0b368ad6fc8657076" datatype="html">
         <source>shc_9</source>
         <target>foobar</target>
         <note priority="1" from="meaning">shc</note>
       </trans-unit>
+      <trans-unit id="109869f6589c835ba1ca8dcc3e262c7f45c2886d" datatype="html">
+        <source>shc_10</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
+      <trans-unit id="5c4ba4a940fa702274247ab0845ae37de04373e8" datatype="html">
+        <source>shc_11</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
+      <trans-unit id="cb94ea39d0b794ec3fa0f6ef0c687bc6119b0557" datatype="html">
+        <source>shc_12</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
+      <trans-unit id="694d41143a7c42b3ddf8ba7a6ca97c7d4d1f6f86" datatype="html">
+        <source>shc_13</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
+      <trans-unit id="d1cff687c7e1286b2cb4952083c42111a32c6038" datatype="html">
+        <source>shc_14</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
+      <trans-unit id="2a32cba52a8e04855f23da68532c9f1ef58415cf" datatype="html">
+        <source>shc_15</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
+      <trans-unit id="5be0f77a757a48007af8eedaade4af04dd0a081e" datatype="html">
+        <source>shc_16</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
+      <trans-unit id="3d55df7969ce985b233366006086a42dabc49bfb" datatype="html">
+        <source>shc_17</source>
+        <target>foobar</target>
+        <note priority="1" from="meaning">shc</note>
+      </trans-unit>
+
+
     </body>
   </file>
 </xliff>
